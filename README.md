@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer with experience across the full stack—from frontend frameworks like React to backend systems and mobile development. I build scalable applications and enjoy exploring the intersection of traditional software engineering and modern AI/ML technologies.<br>Current Focus:<br><br>Building web and mobile applications<br>Backend systems and APIs<br>Integrating AI/ML into production systems<br><br>Tech Stack: JavaScript/TypeScript, React, Node.js, Python, and various backend frameworks<br>Always open to collaborating on interesting projects. Feel free to explore my repositories or reach out!
+Software Engineer with experience across the full stack—from frontend frameworks like React to backend systems and mobile development. I build scalable applications and enjoy exploring the intersection of traditional software engineering and modern AI/ML technologies.<br>Current Focus:<br><br>Building web and mobile applications<br>Backend systems and APIs<br>Integrating AI/ML into production systems<br>
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ Software Engineer with experience across the full stack—from frontend framewor
 ![](https://github-readme-stats.vercel.app/api?username=mueid288&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mueid288&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mueid288&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mueid288&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
